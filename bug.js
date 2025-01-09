@@ -1,0 +1,1 @@
+This bug occurs when using the Expo SDK's `Camera` component within a React Native application. The camera preview fails to render correctly on certain Android devices, resulting in a blank screen or a distorted image. This issue is not consistently reproducible across all Android devices but it can be very frustrating when it happens.
